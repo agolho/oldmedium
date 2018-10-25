@@ -26,6 +26,9 @@ h1 {
   padding-left: 0px;
   padding-right: 0px;
 }
+.navbar-dark {
+  background-color: rgba(254, 82, 0, 1) ;
+}
 @media (min-width: 991px) {
   .navbar .navbar-nav {
     float:none;
